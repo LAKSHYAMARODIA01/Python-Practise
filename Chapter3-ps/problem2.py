@@ -1,3 +1,5 @@
+# WAP to fill in a letter template given :
+
 letter = '''Dear <|Name|>, 
 You are selected! 
 <|Date|> '''
